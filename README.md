@@ -21,7 +21,7 @@ https://ancient-depths-44216.herokuapp.com/
 
 ### Clone the repo
 ```shell
-$ git clone https://github.com/tinsakki/Sentiment_Analysis.git
+$ https://github.com/tinsakki/CAT-VS-DOGS.git
 ```
 
 Make sure you have the following installed:
