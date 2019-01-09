@@ -30,7 +30,7 @@ Make sure you have the following installed:
 - django
 
 
-### Resukt
+### Result
 
 <p align="center">
   <img src="https://i.postimg.cc/bYVk2gNv/catvsdogs.png" width="600px" alt="">
